@@ -2,6 +2,8 @@
 
 A terminal-based file manager for Amazon S3 and S3-compatible services. Built with Go using [Bubble Tea](https://github.com/charmbracelet/bubbletea) and [Lip Gloss](https://github.com/charmbracelet/lipgloss).
 
+This is a Go rewrite of the original Python project by [@Sharashchandra](https://github.com/Sharashchandra/s3ranger).
+
 ## Features
 
 - Browse and navigate S3 buckets and objects
